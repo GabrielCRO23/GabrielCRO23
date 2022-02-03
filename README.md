@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielCRO23
+- 👋 Hi, I’m @GabrielCRO23, I am Croatian-American
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
