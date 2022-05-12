@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: gabrielcro2369@gmail.com
 - Fluent in English, Korean, Croatian, and German
-- 
 
 <!---
 GabrielCRO23/GabrielCRO23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
