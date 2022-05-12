@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: gabrielcro2369@gmail.com
 - Fluent in English, Korean, Croatian, and German
+- Help put a stop to Russian propaganda and Russian companies that support their war. More info @ https://t.me/itarmyofukraine2022
 
 <!---
 GabrielCRO23/GabrielCRO23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
