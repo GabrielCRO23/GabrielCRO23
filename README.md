@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielCRO23
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React and Svetle
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: gabrielcro2369@gmail.com
 - Fluent in English, Korean, Croatian, and German
