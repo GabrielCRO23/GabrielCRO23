@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielCRO23
+- 👋 Hi, I’m @GabrielCRO23, Gabriel Hrastovic
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything
