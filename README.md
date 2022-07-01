@@ -6,7 +6,7 @@
 
 -I’m looking to collaborate on anything
 
--How to reach me: gabrielcro2369@gmail.com
+-How to reach me: gabrielcro2369@gmail.com or gabrielcro23 on insta
 
 -Fluent in English, Korean, Croatian, and German
 
