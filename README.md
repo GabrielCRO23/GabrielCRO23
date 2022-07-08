@@ -2,7 +2,7 @@
 
 -I’m interested in full-stack web development
 
--I’m currently learning React
+-I’m currently learning Nodejs
 
 -I’m looking to collaborate on anything
 
